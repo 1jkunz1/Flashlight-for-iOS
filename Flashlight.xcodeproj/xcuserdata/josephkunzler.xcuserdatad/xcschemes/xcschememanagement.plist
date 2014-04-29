@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>Flashlight.xcscheme</key>
+		<key>MegaFlashlight.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,12 +12,12 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>4FB933BB1900714000D9E10A</key>
+		<key>4FDA5CA318C192D10054DFC9</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>4FB933D61900714000D9E10A</key>
+		<key>4FDA5CC418C192D10054DFC9</key>
 		<dict>
 			<key>primary</key>
 			<true/>

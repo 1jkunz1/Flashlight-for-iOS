@@ -14,8 +14,8 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "4FB933BB1900714000D9E10A"
-               BuildableName = "Flashlight.app"
+               BlueprintIdentifier = "4FDA5CA318C192D10054DFC9"
+               BuildableName = "MegaFlashlight.app"
                BlueprintName = "Flashlight"
                ReferencedContainer = "container:Flashlight.xcodeproj">
             </BuildableReference>
@@ -32,8 +32,8 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "4FB933D61900714000D9E10A"
-               BuildableName = "FlashlightTests.xctest"
+               BlueprintIdentifier = "4FDA5CC418C192D10054DFC9"
+               BuildableName = "MegaFlashlightTests.xctest"
                BlueprintName = "FlashlightTests"
                ReferencedContainer = "container:Flashlight.xcodeproj">
             </BuildableReference>
@@ -42,8 +42,8 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "4FB933BB1900714000D9E10A"
-            BuildableName = "Flashlight.app"
+            BlueprintIdentifier = "4FDA5CA318C192D10054DFC9"
+            BuildableName = "MegaFlashlight.app"
             BlueprintName = "Flashlight"
             ReferencedContainer = "container:Flashlight.xcodeproj">
          </BuildableReference>
@@ -61,8 +61,8 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "4FB933BB1900714000D9E10A"
-            BuildableName = "Flashlight.app"
+            BlueprintIdentifier = "4FDA5CA318C192D10054DFC9"
+            BuildableName = "MegaFlashlight.app"
             BlueprintName = "Flashlight"
             ReferencedContainer = "container:Flashlight.xcodeproj">
          </BuildableReference>
@@ -79,8 +79,8 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "4FB933BB1900714000D9E10A"
-            BuildableName = "Flashlight.app"
+            BlueprintIdentifier = "4FDA5CA318C192D10054DFC9"
+            BuildableName = "MegaFlashlight.app"
             BlueprintName = "Flashlight"
             ReferencedContainer = "container:Flashlight.xcodeproj">
          </BuildableReference>
